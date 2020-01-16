@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B282F6</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="backgroundColour">#FFFFFF</color>
+    <color name="primaryTextColour">#000000</color>
+    <color name="buttonBackgroundColour">#CBA2D1</color>
+
+
+    //GreenTheme
+    <color name="colorPrimaryGreenTheme">#3CDC50</color>
+    <color name="colorPrimaryDarkGreenTheme">#025E27</color>
+    <color name="colorAccentGreenTheme">#03DAC5</color>
+    <color name="backgroundColourGreenTheme">#2EB65B</color>
+    <color name="primaryTextColourGreenTheme">#000000</color>
+
+    //RedTheme
+    <color name="colorPrimaryRedTheme">#E14363</color>
+    <color name="colorPrimaryDarkRedTheme">#870000</color>
+    <color name="colorAccentRedTheme">#E91E63</color>
+    <color name="backgroundColourRedTheme">#D10606</color>
+    <color name="primaryTextColourRedTheme">#FFFFFF</color>
+
+
+    //BlueTheme
+    <color name="colorPrimaryBlueTheme">#4384E6</color>
+    <color name="colorPrimaryDarkBlueTheme">#010D5A</color>
+    <color name="colorAccentBlueTheme">#1EE9D8</color>
+    <color name="backgroundColourBlueTheme">#03359A</color>
+    <color name="primaryTextColourBlueTheme">#FFFFFF</color>
+
+</resources>

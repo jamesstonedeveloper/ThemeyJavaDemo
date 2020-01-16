@@ -1,0 +1,48 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorPrimaryDark</item>
+        <item name="mainBackgroundColour">@drawable/main_background</item>
+        <item name="buttonBackgroundColour">@color/buttonBackgroundColour</item>
+        <item name="android:textColor">@color/primaryTextColour</item>
+        <item name="buttonStrokeColour">@color/primaryTextColour</item>
+    </style>
+
+    <style name="GreenTheme" parent="AppTheme">
+        <item name="colorPrimary">@color/colorPrimaryGreenTheme</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkGreenTheme</item>
+        <item name="colorAccent">@color/colorPrimaryDarkGreenTheme</item>
+        <item name="mainBackgroundColour">@color/backgroundColourGreenTheme</item>
+        <item name="buttonBackgroundColour">@color/colorPrimaryGreenTheme</item>
+        <item name="android:textColor">@color/primaryTextColourGreenTheme</item>
+        <item name="buttonStrokeColour">@color/primaryTextColourGreenTheme</item>
+    </style>
+
+    <style name="RedTheme" parent="AppTheme">
+        <item name="colorPrimary">@color/colorPrimaryRedTheme</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkRedTheme</item>
+        <item name="colorAccent">@color/colorPrimaryDarkRedTheme</item>
+        <item name="mainBackgroundColour">@color/backgroundColourRedTheme</item>
+        <item name="buttonBackgroundColour">@color/colorPrimaryRedTheme</item>
+        <item name="android:textColor">@color/primaryTextColourRedTheme</item>
+        <item name="buttonStrokeColour">@color/primaryTextColourGreenTheme</item>
+    </style>
+
+    <style name="BlueTheme" parent="AppTheme">
+        <item name="colorPrimary">@color/colorPrimaryBlueTheme</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkBlueTheme</item>
+        <item name="colorAccent">@color/colorPrimaryDarkBlueTheme</item>
+        <item name="mainBackgroundColour">@color/backgroundColourBlueTheme</item>
+        <item name="buttonBackgroundColour">@color/colorPrimaryBlueTheme</item>
+        <item name="android:textColor">@color/primaryTextColourBlueTheme</item>
+        <item name="buttonStrokeColour">@color/primaryTextColourGreenTheme</item>
+    </style>
+
+    <attr name="buttonBackgroundColour" format="reference"/>
+    <attr name="mainBackgroundColour" format="reference"/>
+    <attr name="buttonStrokeColour" format="reference"/>
+
+</resources>
