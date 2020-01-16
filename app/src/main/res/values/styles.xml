@@ -5,6 +5,7 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorPrimaryDark</item>
+        <item name="android:windowAnimationStyle">@style/ThemeyAnimationTransition</item>
         <item name="mainBackgroundColour">@drawable/main_background</item>
         <item name="buttonBackgroundColour">@color/buttonBackgroundColour</item>
         <item name="android:textColor">@color/primaryTextColour</item>
